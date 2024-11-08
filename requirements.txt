@@ -1,0 +1,7 @@
+geopandas
+openeo
+numpy
+rasterio
+matplotlib
+tk
+pyproj
