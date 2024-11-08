@@ -1,5 +1,0 @@
-src/Projeto_Geral.py
-src/geopandas.egg-info/PKG-INFO
-src/geopandas.egg-info/SOURCES.txt
-src/geopandas.egg-info/dependency_links.txt
-src/geopandas.egg-info/top_level.txt
